@@ -23,10 +23,13 @@ Procedure:
 
 ### Conclusion 
 
+<img width="1245" height="676" alt="Screenshot 2025-10-21 223523" src="https://github.com/user-attachments/assets/7dfd1901-19cf-4b5c-99fe-babdfdb6db34" />
+
+
+<img width="1009" height="328" alt="Screenshot 2025-10-21 223537" src="https://github.com/user-attachments/assets/b536fdc2-6ec4-41c5-bbd0-57abb7d099b4" />
+
 
 Result: The various types of Prompts are executed successfully with generated the report.
-
-
 
 
 # Result: Thus the Prompts were exected succcessfully.
